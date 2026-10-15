@@ -1,0 +1,8 @@
+{
+  "name": "SevaSetu — AI Document Mismatch & Readiness Checker",
+  "description": "Pre-verification tool for Indian citizens applying for public services to detect discrepancies in names, dates of birth, and addresses across official documents before visiting service centres.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
